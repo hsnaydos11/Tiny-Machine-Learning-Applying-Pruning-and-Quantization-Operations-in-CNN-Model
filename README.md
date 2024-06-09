@@ -65,8 +65,8 @@ Kantifikasyon sonrası modelin doğruluğu değerlendirildi. Nihai doğruluk ve 
 ## Sonuçlar
 
 - Başlangıç model boyutu 183.07 MB ve doğruluğu %95 idi.
-- Budama, model boyutunu önemli ölçüde azaltırken %97 doğruluk sağladı.
-- Kantifikasyon, model boyutunu 15.26 MB'a düşürdü, ancak doğruluk %32.49'a düştü.
+- Budama, model boyutunu önemli ölçüde azaltırken %88.98 doğruluk sağladı.
+- Kantifikasyon, model boyutunu 15.26 MB'a düşürdü, ancak doğruluk %67.51'a düştü.
 
 ## Gereksinimler
 
